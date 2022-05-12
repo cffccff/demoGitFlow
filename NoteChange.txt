@@ -1,1 +1,2 @@
 added moveCircle
+dùng a w d s để di chuyển hình tròn
